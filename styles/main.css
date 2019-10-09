@@ -1,0 +1,33 @@
+html, body {
+	width: 100%;
+	height: 100%;
+}
+
+ {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+.cat:hover {
+	background: #2ECCFA;
+	background: linear-gradient(to top, #2ECCFA, #f1da36);
+}
+
+.svg-inline--fa:hover {
+	color: #F7D358;
+}
+
+
+.nifertiti {
+	stroke: #2ECCFA;
+	stroke-width: 9;
+	fill-opacity: -27;
+	stroke-dasharray: 4;
+}
+
+.nifertiti:hover {
+	background: #2ECCFA;
+	background: linear-gradient(to top, #2ECCFA, #f1da36);
+		   	
+}
